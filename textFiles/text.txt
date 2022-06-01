@@ -1,0 +1,19 @@
+// Comentario de C++
+# Comentario de Python
+%% Comentario de Matlab
+
+int main(){
+    print("Este es un string");
+    int numero = 5
+    float flotante = 5.5
+    bool booleano = True;
+    string sentence = "No"
+
+    if(numero < flotante and sentence == "Si"){
+        sentence.funcion()
+    } else{
+        objeto.atributo = false
+    }
+
+    return 0;
+}

@@ -1,0 +1,17 @@
+"true"|"false"|"True"|"False" booleano red
+"def"|"for"|"while"|"continue"|"break"|"return"|"print"|"cout" reservada pink
+"if"|"else"|"switch" condicional cyan
+"int"|"float"|"string"|"bool"|"char"|"double"|"long" tipoVariable lightSalmon
+\".*\" string lime
+\+|\-|\*|\/ operadorAritmetico orange
+"=="|"<"|">"|"<="|">="|"!=" comparacion teal
+"or"|"and"|"not" operadorLogico wheat
+\{|\}|\(|\)|\;|\: delimitador gold
+[0-9]* entero purple
+[-+]?([0-9]*\.[0-9]*) float gray
+\/\/.* comentarioC++ green
+\#.* comentarioPython yellow
+\%.* comentarioMatlab DeepSkyBlue
+[a-zA-Z]+(\_|[a-zA-Z]|[0-9])* variable sienna
+([a-zA-Z]+(\_|[a-zA-Z]|[0-9])*\.)?[a-zA-Z]+(\_|[a-zA-Z]|[0-9])*\(\) funcion fuchsia
+[a-zA-Z]+(\_|[a-zA-Z]|[0-9])*\.[a-zA-Z]+(\_|[a-zA-Z]|[0-9])* atributo olive
